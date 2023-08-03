@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.exclude": {
+        ".exe": true,
+        "**/.exe": true,
+        "**/*.exe": true
+    }
+}
