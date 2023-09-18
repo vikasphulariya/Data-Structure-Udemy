@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/vikas/Documents/Data Structure Udemy/Array ADT",
-      "program": "c:/Users/vikas/Documents/Data Structure Udemy/Array ADT/build/Debug/outDebug",
+      "cwd": "c:/Users/vikas/Documents/Data Structure Udemy/Strings",
+      "program": "c:/Users/vikas/Documents/Data Structure Udemy/Strings/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
