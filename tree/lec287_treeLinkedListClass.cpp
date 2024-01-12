@@ -159,7 +159,7 @@ main()
 {
     Tree onj1;
     onj1.createTree();
-    onj1.preOrder(onj1.root);
+-    onj1.preOrder(onj1.root);
     cout<<"\n"<<onj1.Height(onj1.root);
     // createTree();
     // preOrder(root);

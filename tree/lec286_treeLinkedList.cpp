@@ -117,8 +117,15 @@ void preOrder(struct treeNode *root){
          preOrder(root->right);
     }
 }
+
+int count(struct treeNode *root){
+    
+}
 int main()
 {
-  createTree();
-  preOrder(root);
+    int x;
+    cin>>"Sdcdsdc">>x;
+
+//   createTree();
+//   preOrder(root);
 }
